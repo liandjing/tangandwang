@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meat charset="utf-8">
+<title>我们的故事</title>
+<link rel="stylesheet" href="template</head>
+<body>
+    <div class="bg-img"></div>
+    <header>梦影回旋</header>
+    <main>
+    <au
+        <h1>hello,everyone</h1>
+        <h2>梦影回旋</h2>
+        <h3>day1</h3>
+        <p>回首往昔，时间如白驹过隙，百思来路，仍觉世事艰难，新的一年开始，我们也是！</p>
+    </main>
+</body>
+</html>
